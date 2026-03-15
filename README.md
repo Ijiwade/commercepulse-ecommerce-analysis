@@ -32,3 +32,11 @@ KEY INSIGHTS
 * Revenue is somewhat concentrated among the top three customers, but overall revenue distribution remains relatively balanced across the customer base. This reduces reliance on a small number of clients while still benefiting from high-value buyers.
 
 ![Dashboard](images/dashboard_overview.png.jpg)
+
+### How to Reproduce This Analysis
+
+1. Load the dataset into SQLite.
+2. Run the SQL queries in the `sql_queries` folder.
+3. Export the result tables as CSV.
+4. Load the CSV files into Power BI.
+5. Open the dashboard file located in the `dashboard` folder.
