@@ -31,4 +31,4 @@ KEY INSIGHTS
 * The business generated approximately 52k in net revenue over the observed period, with refunds totaling around 6k. However, July shows negative net revenue due to refunds exceeding sales. This may indicate either operational issues or incomplete transactional data for that month and should be further investigated.
 * Revenue is somewhat concentrated among the top three customers, but overall revenue distribution remains relatively balanced across the customer base. This reduces reliance on a small number of clients while still benefiting from high-value buyers.
 
-![dashboard](images/dashboard_overview.png)
+![Dashboard](images/dashboard_overview.png.jpg)
